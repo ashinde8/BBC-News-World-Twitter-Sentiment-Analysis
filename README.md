@@ -1,10 +1,10 @@
 # BBC-News-World-Twitter-Sentiment-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![bbc_word_count](https://user-images.githubusercontent.com/59103315/101733731-45284980-3a8d-11eb-8053-092c68d833a8.png)
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![bbc_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101733730-45284980-3a8d-11eb-92fd-58ace5b4e200.png)
 
